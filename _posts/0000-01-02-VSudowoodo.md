@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Sorry, I'm semantically involved with someone." 
 Use the left arrow to go back!
